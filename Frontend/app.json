@@ -1,0 +1,19 @@
+{
+  "name": "Protegida",
+  "displayName": "Protegida",
+  "expo": {
+    "name": "Protegida",
+    "slug": "Frontend",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "Frontend do TCC",
+    "githubUrl": "https://github.com/ryanmata40/tcc_2020"
+  }
+}
